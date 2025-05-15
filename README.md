@@ -16,7 +16,7 @@ Technologies Used:
 
 How to Run:
 Clone the repository:
-git clone https://github.com/your-username/tic-tac-toe.git
+git clone https://github.com/kanijayachandran-sys/tic-tac-toe_game.git
 Navigate to the project directory:
 cd tic-tac-toe
 
